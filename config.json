@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrpdate",
+        "uuid": 16531932,
+        "checksum": "1t7ebr"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
